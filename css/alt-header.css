@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* =Headings
+--------------------------------------------------------------------------------------------------------*/
+#logo-container { width:auto; background:none !important; text-align:left; float:left; margin-left:30px;}
+h1#logo { padding-top:26px; margin-bottom:0px; }
+h1#logo a { font-size:40px; }
+/* End Headings
+--------------------------------------------------------------------------------------------------------*/
+
+
+/* =Main Content
+--------------------------------------------------------------------------------------------------------*/
+#wrapper { margin-top:0px; width:100%; height:auto; position:fixed; z-index:29; padding-bottom:14px; background-color:rgba(255, 255, 255, 0.98) !important; background-color:#fff; -webkit-box-shadow:0 1px 0 rgba(0, 0, 0, 0.1); -moz-box-shadow:0 1px 0 rgba(0, 0, 0, 0.1); box-shadow:0 1px 0 rgba(0, 0, 0, 0.1);}
+.alternate-header { padding-top:160px;}
+/* =End Main Content
+--------------------------------------------------------------------------------------------------------*/
+
+
+/* =Isotope
+--------------------------------------------------------------------------------------------------------*/
+#options { width:auto; height:98px; text-align:right; margin-top:19px; margin-right:20px; background:none !important; -webkit-box-shadow:0 0px 0 rgba(0, 0, 0, 0.1); -moz-box-shadow:0 0px 0 rgba(0, 0, 0, 0.1); box-shadow:0 0px 0 rgba(0, 0, 0, 0.1); float:right;}
+/* End Isotope
+--------------------------------------------------------------------------------------------------------*/
+
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+#logo-container { text-align:center; float:none; margin-left:0px;}
+h1#logo { display:block; margin:0 auto; padding-top:26px; margin-bottom:0px; }
+#options { width:auto; height:96px; text-align:center; margin-top:0px; margin-right:0px; background:none !important; -webkit-box-shadow:0 0px 0 rgba(0, 0, 0, 0.1); -moz-box-shadow:0 0px 0 rgba(0, 0, 0, 0.1); box-shadow:0 0px 0 rgba(0, 0, 0, 0.1); float:none;}
+#wrapper { padding-bottom:0px;}
+.alternate-header { padding-top:216px;}
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 767px) {
+#logo-container { text-align:center; float:none; margin-left:0px;}
+h1#logo { display:block; margin:0 auto; padding-top:26px; margin-bottom:0px; }
+#options { text-align:center; float:none; margin-right:0px; height:auto; margin-top:0px; padding-bottom:10px;}
+#wrapper { padding-bottom:0px; position:relative;}
+.alternate-header { padding-top:11px;}
+}
