@@ -7,9 +7,9 @@
 <meta charset="utf-8">
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="author" content="ppandp">
-<meta name="Description" content="theGrid - Responsive Retina-Ready HTML5 One-Page" />
-<title>theGrid - Responsive Retina-Ready HTML5 One-Page</title>
+<meta name="author" content="Strung Together">
+<meta name="Description" content="Campaign Donation Platform that Works for the People" />
+<title>Strung Together - Campaign Donation Platform that Works for the People</title>
 <link href="css/reset.css" rel="stylesheet" type="text/css" media="screen" />
 <link href="css/contact.css" rel="stylesheet" type="text/css" media="screen" />
 <link href="css/styles.css" rel="stylesheet" type="text/css" media="screen" />
@@ -39,8 +39,8 @@
 <body>
 <header id="wrapper">
   <div id="logo-container">
-    <h1 id="logo"><a href="index.html">theGrid</a></h1>
-    <p class="slogan">Digital-Forward Creations</p>
+    <h1 id="logo"><a href="index.html">Strung Together (Launching Soon)</a></h1>
+    <p class="slogan">Campaign Donation Platform that Works for the People</p>
   </div>
   <!-- start navi -->
   <div id="nav-bg">
@@ -49,10 +49,10 @@
   <div id="options" class="clearfix">
     <ul id="filters" class="option-set clearfix" data-option-key="filter">
       <li><a href="#filter=*" class="selected">Home</a></li>
-      <li><a href="#filter=.services">Services</a></li>
-      <li><a href="#filter=.clients">Clients</a></li>
-      <li><a href="#filter=.portfolio">Portfolio</a></li>
-      <li><a href="#filter=.about">About</a></li>
+      <li><a href="#filter=.vision">Vision</a></li>
+      <li><a href="#filter=.problem">Problem</a></li>
+      <li><a href="#filter=.solutions">Solution</a></li>
+      <li><a href="#filter=.team">Team</a></li>
       <li><a href="#filter=.blog">Blog</a></li>
       <li><a href="#filter=.contact">Contact</a></li>
     </ul>
@@ -74,15 +74,15 @@
     <div class="element  clearfix col1-3 home no-padding">
       <div id="twitter_update_list"></div>
     </div>
-    <div class="element  clearfix col1-3 services no-padding">
+    <div class="element  clearfix col1-3 vision no-padding">
       <div class="images"><img src="images/pic2.jpg" alt="" /></div>
     </div>
-    <div class="element  clearfix col2-3 services">
+    <div class="element  clearfix col2-3 vision">
       <div class="number">02</div>
       <h2>Our Services</h2>
       <h3>We are absolutely passionate about <span>simple yet sophisticated</span> user experience and designs that we, and our clients, are very proud of.</h3>
     </div>
-    <div class="element  clearfix col1-3 border services">
+    <div class="element  clearfix col1-3 border vision">
       <h2>Conception</h2>
       <ul class="list check">
       	<li>Lorem ipsum dolor sit</li>
@@ -91,7 +91,7 @@
         <li>Donec pede justo</li>
       </ul>
     </div>
-    <div class="element  clearfix col1-3 border services">
+    <div class="element  clearfix col1-3 border vision">
       <h2>Design</h2>
       <ul class="list check">
       	<li>Justo quam fellis</li>
