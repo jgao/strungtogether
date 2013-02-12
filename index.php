@@ -80,7 +80,7 @@
     <div class="element  clearfix col2-3 vision">
       <div class="number">02</div>
       <h2>Our Services</h2>
-      <h3>We are absolutely passionate about <span>simple yet sophisticated</span> user experience and designs that we, and our clients, are very proud of.</h3>
+      <h3>We are absolutely passionate team <span>simple yet sophisticated</span> user experience and designs that we, and our problem, are very proud of.</h3>
     </div>
     <div class="element  clearfix col1-3 border vision">
       <h2>Conception</h2>
@@ -101,7 +101,7 @@
         <li>Aliquet nec</li>
       </ul>
     </div>
-    <div class="element  clearfix col1-3 border services">
+    <div class="element  clearfix col1-3 border vision">
       <h2>Development</h2>
       <ul class="list check">
       	<li>Cum sociis natoque</li>
@@ -111,7 +111,7 @@
         <li>Consetetur</li>
       </ul>
     </div>
-    <div class="element  clearfix col1-3 border services">
+    <div class="element  clearfix col1-3 border vision">
       <h2>Satisfaction</h2>
       <ul class="list check">
       	<li>Nulla quam fellis ultricies</li>
@@ -121,19 +121,19 @@
         <li>Frin gilla vel aliquet</li>
       </ul>
     </div>
-    <div class="element  clearfix col2-3 clients">
+    <div class="element  clearfix col2-3 problem">
       <h2>Several of our Clients</h2>
       <div class="number">03</div>
       <h3 class="blockquote">“ This could be a blockquote. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer commodo tristique odio, quis fringilla. ”<br />
         <span>John Doe, Company Name</span></h3>
     </div>
-    <div class="element  clearfix col1-3 clients">
+    <div class="element  clearfix col1-3 problem">
       <div class="logo"><img src="images/logos/logo2.png" alt="" /></div>
       <div class="logo last"><img src="images/logos/logo3.png" alt="" /></div>
       <div class="logo bottom"><img src="images/logos/logo1.png" alt="" /></div>
       <div class="logo last bottom"><img src="images/logos/logo5.png" alt="" /></div>
     </div>
-    <div class="element  clearfix col1-3 portfolio">
+    <div class="element  clearfix col1-3 solution">
       <div class="movable-content">
         <div class="images"><img src="images/project1-th.jpg" alt="" /></div>
         <div class="title">
@@ -155,7 +155,7 @@ Date: November 2012<br />
 HTML5 / CSS3<br />
 Retina-Ready</span></div></div>
     </div>
-    <div class="element  clearfix col1-3 portfolio">
+    <div class="element  clearfix col1-3 solution">
       <div class="movable-content">
         <div class="images"><img src="images/project2-th.jpg" alt="" /></div>
         <div class="title">
@@ -175,7 +175,7 @@ Date: November 2012<br />
 HTML5 / CSS3<br />
 Retina-Ready</span></div></div>
     </div>
-    <div class="element  clearfix col1-3 portfolio">
+    <div class="element  clearfix col1-3 solution">
       <div class="movable-content">
         <div class="images"><img src="images/project3-th.jpg" alt="" /></div>
         <div class="title">
@@ -195,7 +195,7 @@ Date: November 2012<br />
 HTML5 / CSS3<br />
 Retina-Ready</span></div></div>
     </div>
-    <div class="element  clearfix col1-3 portfolio">
+    <div class="element  clearfix col1-3 solution">
       <div class="movable-content">
         <div class="images"><img src="images/project1-th.jpg" alt="" /></div>
         <div class="title">
@@ -217,7 +217,7 @@ Date: November 2012<br />
 HTML5 / CSS3<br />
 Retina-Ready</span></div></div>
     </div>
-    <div class="element  clearfix col1-3 portfolio">
+    <div class="element  clearfix col1-3 solution">
       <div class="movable-content">
         <div class="images"><img src="images/project2-th.jpg" alt="" /></div>
         <div class="title">
@@ -237,18 +237,18 @@ Date: November 2012<br />
 HTML5 / CSS3<br />
 Retina-Ready</span></div></div>
     </div>
-    <div class="element  clearfix col1-3 border portfolio responsive-col">
+    <div class="element  clearfix col1-3 border solution responsive-col">
       <h2>Let's get crackin!</h2>
       <p>Just give us a call or drop us a line! No worries, we'll bring the coffee ;-)<br />
         hello@domain.com<br />
         (845) 123 4567</p>
     </div>
-    <div class="element  clearfix col2-3 about">
+    <div class="element  clearfix col2-3 team">
       <div class="number">04</div>
       <h2>About Us</h2>
       <h3>We are regarded as <span>industry leaders</span> in stunning website solutions, focused on delivering unsurpassed user experiences.</h3>
     </div>
-    <div class="element  clearfix col1-3 about">
+    <div class="element  clearfix col1-3 team">
       <div class="movable-content">
         <div class="images"><img src="images/about1.jpg" alt="" /></div>
         <div class="title">
@@ -265,7 +265,7 @@ Retina-Ready</span></div></div>
         </a>
         <div class="hover-content"><span class="blockquote">" At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus. Integer commodo tristique odio, quis fringilla. "</span></div></div>
     </div>
-    <div class="element  clearfix col1-3 about">
+    <div class="element  clearfix col1-3 team">
       <div class="movable-content">
         <div class="images"><img src="images/about2.jpg" alt="" /></div>
         <div class="title">
@@ -284,7 +284,7 @@ Retina-Ready</span></div></div>
         </a>
         <div class="hover-content"><span class="blockquote">" At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus. Integer commodo tristique odio, quis fringilla. "</span></div></div>
     </div>
-    <div class="element  clearfix col1-3 about">
+    <div class="element  clearfix col1-3 team">
       <div class="movable-content">
         <div class="images"><img src="images/about3.jpg" alt="" /></div>
         <div class="title">
