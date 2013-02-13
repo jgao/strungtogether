@@ -9,7 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="author" content="Strung Together">
 <meta name="Description" content="Campaign Donation Platform that Works for the People" />
-<title>Strung Together - Campaign Donation Platform that Works for the People</title>
+<title>StrungTogether - Campaign Donation Platform that Works for the People</title>
 <link href="css/reset.css" rel="stylesheet" type="text/css" media="screen" />
 <link href="css/contact.css" rel="stylesheet" type="text/css" media="screen" />
 <link href="css/styles.css" rel="stylesheet" type="text/css" media="screen" />
@@ -39,7 +39,7 @@
 <body>
 <header id="wrapper">
   <div id="logo-container">
-    <h1 id="logo"><a href="index.html">Strung Together (Launching Soon)</a></h1>
+    <h1 id="logo"><a href="index.php">StrungTogether</a></h1>
     <p class="slogan">Campaign Donation Platform that Works for the People</p>
   </div>
   <!-- start navi -->
@@ -64,12 +64,14 @@
   <div id="container" class="clearfix">
     <div class="element  clearfix col2-3 home">
       <div class="number">01</div>
-      <h2>Hi, We're theGrid</h2>
-      <h3>A <span>digital-forward</span> creative agency making brands live up to their full potential. That’s it.<br />
-        And this is our website. It’s that simple.</h3>
+      <h2>This is StrungTogether</h2>
+      <h3>An <span>online campaign donation platform</span> designed to combat <span>corporate influence</span> and keep politicians <span>accountable</span> to us, the people.<br />
+      If we are <span>StrungTogether</span>, we can be <span>Strong Together</span></h3>
     </div>
-    <div class="element  clearfix col1-3 home no-padding">
-      <div class="images"><img src="images/pic1.jpg" alt="" /></div>
+    <div class="element  clearfix col1-3 border home">
+      <h2>Launching Soon...</h2>
+      <p>We are building a robust platform with feedback from politicans and voters.<br /><br />
+      Follow us on Twitter for updates!</p>
     </div>
     <div class="element  clearfix col1-3 home no-padding">
       <div id="twitter_update_list"></div>
@@ -133,7 +135,7 @@
       <div class="logo bottom"><img src="images/logos/logo1.png" alt="" /></div>
       <div class="logo last bottom"><img src="images/logos/logo5.png" alt="" /></div>
     </div>
-    <div class="element  clearfix col1-3 solution">
+    <div class="element  clearfix col1-3 solutions">
       <div class="movable-content">
         <div class="images"><img src="images/project1-th.jpg" alt="" /></div>
         <div class="title">
@@ -155,7 +157,7 @@ Date: November 2012<br />
 HTML5 / CSS3<br />
 Retina-Ready</span></div></div>
     </div>
-    <div class="element  clearfix col1-3 solution">
+    <div class="element  clearfix col1-3 solutions">
       <div class="movable-content">
         <div class="images"><img src="images/project2-th.jpg" alt="" /></div>
         <div class="title">
@@ -175,7 +177,7 @@ Date: November 2012<br />
 HTML5 / CSS3<br />
 Retina-Ready</span></div></div>
     </div>
-    <div class="element  clearfix col1-3 solution">
+    <div class="element  clearfix col1-3 solutions">
       <div class="movable-content">
         <div class="images"><img src="images/project3-th.jpg" alt="" /></div>
         <div class="title">
@@ -195,7 +197,7 @@ Date: November 2012<br />
 HTML5 / CSS3<br />
 Retina-Ready</span></div></div>
     </div>
-    <div class="element  clearfix col1-3 solution">
+    <div class="element  clearfix col1-3 solutions">
       <div class="movable-content">
         <div class="images"><img src="images/project1-th.jpg" alt="" /></div>
         <div class="title">
@@ -217,7 +219,7 @@ Date: November 2012<br />
 HTML5 / CSS3<br />
 Retina-Ready</span></div></div>
     </div>
-    <div class="element  clearfix col1-3 solution">
+    <div class="element  clearfix col1-3 solutions">
       <div class="movable-content">
         <div class="images"><img src="images/project2-th.jpg" alt="" /></div>
         <div class="title">
@@ -237,7 +239,7 @@ Date: November 2012<br />
 HTML5 / CSS3<br />
 Retina-Ready</span></div></div>
     </div>
-    <div class="element  clearfix col1-3 border solution responsive-col">
+    <div class="element  clearfix col1-3 border solutions responsive-col">
       <h2>Let's get crackin!</h2>
       <p>Just give us a call or drop us a line! No worries, we'll bring the coffee ;-)<br />
         hello@domain.com<br />
@@ -246,7 +248,7 @@ Retina-Ready</span></div></div>
     <div class="element  clearfix col2-3 team">
       <div class="number">04</div>
       <h2>About Us</h2>
-      <h3>We are regarded as <span>industry leaders</span> in stunning website solutions, focused on delivering unsurpassed user experiences.</h3>
+      <h3>We are regarded as <span>industry leaders</span> in stunning website solutionss, focused on delivering unsurpassed user experiences.</h3>
     </div>
     <div class="element  clearfix col1-3 team">
       <div class="movable-content">
@@ -304,7 +306,7 @@ Retina-Ready</span></div></div>
     <div class="element  clearfix col2-3 blog">
       <div class="number">05</div>
       <h2>Our Blog</h2>
-      <h3>News, comments, and hints on user experience and website solutions as well as <span>current information</span> on agency's development.</h3>
+      <h3>News, comments, and hints on user experience and website solutionss as well as <span>current information</span> on agency's development.</h3>
     </div>
     <div class="element  clearfix col1-3 border blog"><a href="single-post.html">
       <div class="blog-icon"><i class="icons bubble"></i>Posted: Jan 17 2013</div>
